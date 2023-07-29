@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projectcontact/static/css/main.e12a4e5d.css",
+    "main.js": "/projectcontact/static/js/main.d8f5092f.js",
+    "static/js/787.ec704a7a.chunk.js": "/projectcontact/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/projectcontact/index.html",
+    "main.e12a4e5d.css.map": "/projectcontact/static/css/main.e12a4e5d.css.map",
+    "main.d8f5092f.js.map": "/projectcontact/static/js/main.d8f5092f.js.map",
+    "787.ec704a7a.chunk.js.map": "/projectcontact/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e12a4e5d.css",
+    "static/js/main.d8f5092f.js"
+  ]
+}
